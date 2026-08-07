@@ -1,0 +1,29 @@
+[
+  {
+    "id": "canlı_iptv",
+    "name": "Ev IPTV",
+    "url": "https://raw.githubusercontent.com/adnsahin/iptv-liste/refs/heads/main/birlesik_canli.m3u",
+    "type": "auto",
+    "enabled": true,
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "id": "dizi_iptv",
+    "name": "İkinci Liste",
+    "url": "https://raw.githubusercontent.com/adnsahin/iptv-liste/refs/heads/main/birlesik_dizi.m3u",
+    "type": "auto",
+    "enabled": true,
+    "referer": "",
+    "userAgent": ""
+  },
+  {
+    "id": "vod_iptv",
+    "name": "İkinci Liste",
+    "url": "https://raw.githubusercontent.com/adnsahin/iptv-liste/refs/heads/main/birlesik_vod.m3u",
+    "type": "auto",
+    "enabled": true,
+    "referer": "",
+    "userAgent": ""
+  }
+]
